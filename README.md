@@ -1,2 +1,3 @@
-He creado un nuevo repo
-
+# TC1002S_semanaTec
+Semana Tec TC1002S: Herramientas computacionales
+hola
